@@ -15,8 +15,18 @@
 - Power BI
 
 ### Foundation of Data 
+---
 - Data Generation
 - Data Storage
 - Data Analysis
 - Statustics
-- Data Driven Decision Making 
+- Data Driven Decision Making
+
+## WHAT IS DATA LITERACY?
+---
+Data literacy explain how we should perserve 
+
+```SQL
+select * From Table1
+Where condition = TRUE
+```
