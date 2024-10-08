@@ -35,7 +35,9 @@ Data literacy explain how we should perserve data and some of different Storage 
 ## DATA GENERATION
 ---
 Data Set means a collection of data point while Data Point menas a single attribute in a data set. 
-when our data has been generated our data will come in different struction. However the structure 
+when our data has been generated our data will come in different struction. However the structure is what we need to store our data somewhere because the end go is that we wantr to be able to analysis the data set that we have as a business, for example for it to be accessable to everybody when the data is store is only then we can run our analysis. 
+
+#TO BE CONTINUE 
 ```SQL
 select * From Table1
 Where condition = TRUE
