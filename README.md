@@ -1,2 +1,7 @@
 # My_LITA_Project
-This is where i documented my first Project while learning Data Analysis with the Incubator Hub.
+
+## Basics of Data Analysis 
+### Tools Needed as a Data Analysis 
+- Mircosoft word Excel
+- Structure Query Language
+- Power BI  
