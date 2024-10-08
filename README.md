@@ -1,10 +1,10 @@
 # My_LITA_Project
+## FIRST CLASS 19/08/2024
 
-[Basics of Data Analysis](#Basic-of-Data-Analysis)
-Tools Needed as a Data Analysis 
-What we need to know in Excel
-Foundation of Data 
-WHAT IS DATA LITERACY?
+Tools Needed as a Data Analysis(#Tools-Needed-as-a-Data-Analysis)
+What we need to know in Excel(#What-we-need-to-Know-in-Excel)
+Foundation of Data(#Foundation-of-Data)
+WHAT IS DATA LITERACY?(#What-Is-Data-Literacy?)
  
 ## Basics of Data Analysis 
 ### Tools Needed as a Data Analysis 
@@ -30,8 +30,12 @@ WHAT IS DATA LITERACY?
 
 ## WHAT IS DATA LITERACY?
 ---
-Data literacy explain how we should perserve 
+Data literacy explain how we should perserve data and some of different Storage our data can be on for us to certain things
 
+## DATA GENERATION
+---
+Data Set means a collection of data point while Data Point menas a single attribute in a data set. 
+when our data has been generated our data will come in different struction. However the structure 
 ```SQL
 select * From Table1
 Where condition = TRUE
