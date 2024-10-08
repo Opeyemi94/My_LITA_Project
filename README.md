@@ -1,5 +1,11 @@
 # My_LITA_Project
 
+[Basics of Data Analysis](#Basic-of-Data-Analysis)
+Tools Needed as a Data Analysis 
+What we need to know in Excel
+Foundation of Data 
+WHAT IS DATA LITERACY?
+ 
 ## Basics of Data Analysis 
 ### Tools Needed as a Data Analysis 
 - Mircosoft Excel [Download Here]( https://www.microsoft.com)
@@ -30,3 +36,8 @@ Data literacy explain how we should perserve
 select * From Table1
 Where condition = TRUE
 ```
+
+
+|Heading 1 |Heading 2 |Heading 3|
+|-----------|---------|---------|
+|Table 1|Table 2|Table 3|
