@@ -7,7 +7,7 @@ Foundation of Data(#Foundation-of-Data)
 WHAT IS DATA LITERACY?(#What-Is-Data-Literacy?)
  
 ## Basics of Data Analysis 
-### Tools Needed as a Data Analysis 
+## Tools Needed as a Data Analysis 
 - Mircosoft Excel [Download Here]( https://www.microsoft.com)
   #### What we need to know in Excel
   1. Foundation of Data
@@ -20,7 +20,7 @@ WHAT IS DATA LITERACY?(#What-Is-Data-Literacy?)
 - GitHub for Portfolio Building 
 - Power BI
 
-### Foundation of Data 
+## Foundation of Data 
 ---
 - Data Generation
 - Data Storage
@@ -36,6 +36,29 @@ Data literacy explain how we should perserve data and some of different Storage 
 ---
 Data Set means a collection of data point while Data Point menas a single attribute in a data set. 
 when our data has been generated our data will come in different struction. However the structure is what we need to store our data somewhere because the end go is that we wantr to be able to analysis the data set that we have as a business, for example for it to be accessable to everybody when the data is store is only then we can run our analysis. 
+
+Why do we run analysis; one of the key tool that will assist us to run analysis and be able to draw decision/conclusion and influence to do some level of statistics, after that we will make our decision.
+There are two types of system every organization runs, which are; 
+## OPERATIONAL SYSTEM: 
+Operational system is the system the organization use to execute business processes. That’s operational system is any system that that the organization is using to manage their business process. 
+Examples of Operational System 
+•	Off the shelf system 
+•	Sap, oracle, dynamics 365 and zoom
+•	Custom built systems 
+•	Built by software develops 
+##ANALYTIC SYSTEM: 
+Analytic system is used to evaluate business process 
+Examples of Analytics System
+•	Self-service BI tools like Power BI 
+•	Bespoke / custom systems 
+•	Microsoft Excel  
+
+DATA STORAGE 
+There are different ways to store our data but typically two ways 
+What does it mean to save data on premises: It simply means we have our data within the four walls of our company / organization. A server in an organization means a centralized system. 
+Cloud means your system/data is somewhere in the cloud, that is DATA CENTER. A cloud is being paid for before it’s can be assessed. 
+
+
 
 #TO BE CONTINUE 
 ```SQL
