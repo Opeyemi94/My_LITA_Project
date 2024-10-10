@@ -1,5 +1,6 @@
 # My_LITA_Project
-## FIRST CLASS 19/08/2024
+### Facilitator: Mushin Hammed (19/08/2024)
+### Topic: Basis of Data Analysis 
 
 Tools Needed as a Data Analysis(#Tools-Needed-as-a-Data-Analysis)
 What we need to know in Excel(#What-we-need-to-Know-in-Excel)
@@ -7,20 +8,16 @@ Foundation of Data(#Foundation-of-Data)
 WHAT IS DATA LITERACY?(#What-Is-Data-Literacy?)
  
 ## Basics of Data Analysis 
-## Tools Needed as a Data Analysis 
+#### Tools Needed as a Data Analysis 
 - Mircosoft Excel [Download Here]( https://www.microsoft.com)
-  ## What we need to know in Excel
+### What we need to know in Excel
   1. Foundation of Data
   2. Basic Excel Function
   3. Basic Excel Function
   4. Data Cleaning, Analysis and Visualization
   5. Reports and Dashboards in Excel
   6. Project / Challenges
-- SQL - Structured Query Language for Querying of Data
-- GitHub for Portfolio Building 
-- Power BI
-
-## Foundation of Data 
+### Foundation of Data 
 ---
 - Data Generation
 - Data Storage
@@ -41,7 +38,7 @@ Why do we run analysis; one of the key tool that will assist us to run analysis 
 There are two types of system every organization runs, which are; 
 
 ## OPERATIONAL SYSTEM: 
-
+---
 Operational system is the system the organization use to execute business processes. That’s operational system is any system that that the organization is using to manage their business process. 
 
 Examples of Operational System 
@@ -51,7 +48,7 @@ Examples of Operational System
 - Built by software develops 
 
 ## ANALYTIC SYSTEM: 
-
+---
 Analytic system is used to evaluate business process 
 Examples of Analytics System
 - Self-service BI tools like Power BI
@@ -59,9 +56,8 @@ Examples of Analytics System
 - Microsoft Excel  
 
 ## DATA STORAGE 
-
+---
 There are different ways to store our data but typically two ways:
-
 - PREMISES: What does it mean to save data on premises: It simply means we have our data within the four walls of our company / organization. A server in an organization means a centralized system.
 - CLOUD: Cloud means your system/data is somewhere in the cloud, that is DATA CENTER. A cloud is being paid for before it’s can be assessed. 
 
@@ -83,7 +79,7 @@ Semi-structure can be transform into a table format structure.
 3. Unstructure: When our data is not structure i.e when is not in a tabular format, what we need to do is ETL, ETL is technical term to transform data to structure 
    Unstructured is in media format, that’s Video or Audio. 
 
--ETL Stand for (EXTRACT, TRANSFORM AND LOAD)-. ETL is technical term of whenever we discuss data transformation, when we want to discuss how we want to take our data from a particular structure to a structure that is reporting or analysis ready. Remember that every single thing that we want to be doing around our data the end goal is to have a data set we want to analysis. 
+ETL Stand for (EXTRACT, TRANSFORM AND LOAD):. ETL is technical term of whenever we discuss data transformation, when we want to discuss how we want to take our data from a particular structure to a structure that is reporting or analysis ready. Remember that every single thing that we want to be doing around our data the end goal is to have a data set we want to analysis. 
 Extract means that you are connecting to the data source. Data Source might be on the Cloud or Premises, if your Data Source is on Cloud there is a way to connect to it to extract the data unlike premises. 
 
 
