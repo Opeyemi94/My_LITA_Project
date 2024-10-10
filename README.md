@@ -67,6 +67,26 @@ There are different ways to store our data but typically two ways:
 
 [Premises and cloud](https://github.com/user-attachments/assets/09aeb9ec-d93b-4bcb-a12c-e697e45d1015)
 
+## DATA STRUCTURE
+Data Structure Means Data is structure 
+
+There are three ways in which data can be structure 
+1. 	Structure: means data is in a tabular format, that’s table form.
+2. 	Semi-structure: means the data is not in a table format but in a format like JSON or XML
+   
+JSON means Javascript 
+
+XLM means Extensible Makeup Language 
+
+Semi-structure can be transform into a table format structure.
+
+3. Unstructure: When our data is not structure i.e when is not in a tabular format, what we need to do is ETL, ETL is technical term to transform data to structure 
+   Unstructured is in media format, that’s Video or Audio. 
+
+-ETL Stand for (EXTRACT, TRANSFORM AND LOAD)-. ETL is technical term of whenever we discuss data transformation, when we want to discuss how we want to take our data from a particular structure to a structure that is reporting or analysis ready. Remember that every single thing that we want to be doing around our data the end goal is to have a data set we want to analysis. 
+Extract means that you are connecting to the data source. Data Source might be on the Cloud or Premises, if your Data Source is on Cloud there is a way to connect to it to extract the data unlike premises. 
+
+
 ```SQL
 select * From Table1
 Where condition = TRUE
