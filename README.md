@@ -79,8 +79,25 @@ Semi-structure can be transform into a table format structure.
 3. Unstructure: When our data is not structure i.e when is not in a tabular format, what we need to do is ETL, ETL is technical term to transform data to structure 
    Unstructured is in media format, that’s Video or Audio. 
 
-ETL Stand for (EXTRACT, TRANSFORM AND LOAD):. ETL is technical term of whenever we discuss data transformation, when we want to discuss how we want to take our data from a particular structure to a structure that is reporting or analysis ready. Remember that every single thing that we want to be doing around our data the end goal is to have a data set we want to analysis. 
+ETL Stand for (EXTRACT, TRANSFORM AND LOAD): ETL is technical term of whenever we discuss data transformation, when we want to discuss how we want to take our data from a particular structure to a structure that is reporting or analysis ready. Remember that every single thing that we want to be doing around our data the end goal is to have a data set we want to analysis. 
 Extract means that you are connecting to the data source. Data Source might be on the Cloud or Premises, if your Data Source is on Cloud there is a way to connect to it to extract the data unlike premises. 
+
+## DATA ANALYSIS LIFE CYCLE 
+1. Ingestion: Connect to data you want to use for analysis, that is connect to data base.
+2. Transformation: Which is within the ETL, you want to drop columns, add in column, you want to turn your data in a certain way or change your data type.
+3. Modelling: To analyst what you are doing is that you have data coming from different sources and you want all of this source to talk to themselves, that is you are planning to build 
+   a single report on top a single table.  
+4. Visualization: This is turning data into visual, turning your data into story or chat. 
+5. Statistics: Analysis is beyond visualization; this is when you might be bring statistics tools or statistic measure to do something on your data set so that you can further 
+   understand your data set. 
+6. Presentation: After analysis your data, this is the time to present your analysis work to the business owner or the organization you are working for about what is working, what is 
+   not working and what should be focus on. 
+
+# MS EXCEL TOOLS 
+Ribbon Interface | Tap | Group | Command | Formular Bar 
+
+
+
 
 
 ```SQL
