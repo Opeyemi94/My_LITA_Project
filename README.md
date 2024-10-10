@@ -1,4 +1,5 @@
 # My_LITA_Project
+### CLASS 1
 ### Facilitator: Mushin Hammed (19/08/2024)
 ### Topic: Basis of Data Analysis 
 
@@ -70,9 +71,9 @@ There are three ways in which data can be structure
 1. 	Structure: means data is in a tabular format, that’s table form.
 2. 	Semi-structure: means the data is not in a table format but in a format like JSON or XML
    
-JSON means Javascript 
+    JSON means Javascript 
 
-XLM means Extensible Makeup Language 
+    XLM means Extensible Makeup Language 
 
 Semi-structure can be transform into a table format structure.
 
@@ -93,10 +94,48 @@ Extract means that you are connecting to the data source. Data Source might be o
 6. Presentation: After analysis your data, this is the time to present your analysis work to the business owner or the organization you are working for about what is working, what is 
    not working and what should be focus on. 
 
-# MS EXCEL TOOLS 
+### MS EXCEL TOOLS 
 Ribbon Interface | Tap | Group | Command | Formular Bar 
 
+### CLASS 2 
+### Facilitator: Femi Ayodele 
+### Topic: Unlocking Opportunities in Data Analysis | Exploring Careers and skills in a data driven world 
 
+#### What is data analysis 
+Data Analysis involves inspecting, cleansing, transforming, and modelling data to discover useful information, draw conclusions and support decision-making. 
+
+#### Stages of Data 
+Business Question – Get Data 
+Explore Data – Prepare Data
+Analysis Data – Prepare Findings 
+
+#### WHY IS DATA ANALYSIS IMPORTANT? 
+-	It helps organization make decision based on the actual data rather than institution or guess work 
+-	Identify bottleneck and inefficiencies in the processes, leading to optimization and cost reduction.  
+-	Helps in better allocation of resources based on data insights, maximizing productivity. 
+-	Predicts future trends and outcomes, allowing businesses to prepare and strategize accordingly. 
+-	Identifies factors contributing to customer churn and develops strategies to retain them 
+-	Identifies opportunities for innovation and development based on market and consumer data. 
+-	Identifies new opportunities for product and service innovation through the analysis of market. 
+
+#### Skills required for Data Analysis 
+1.	Technical skills / programming Language 
+-	Python: Widely used for data manipulation and analysis, python boasts a rich ecosystem of libraries like Pandas and Numpy. 
+-	R Language: Specialized for statistical analysis, R is another powerful tools often used in the academic research and data visualization. 
+-	SQL (Structured Query Language): the go to language for database management, SQL allows you to query, update and manipulate structured data. 
+
+2.	Data Visualization: (MS Power BI, Tableau) 
+-	TABLEAU: Allows you to create complex visualization without any coding. It’s particularly useful for creating interactive dashboards that can be easily shared across an organization. 
+-	POWER BI: Is another powerful tool for creating interactive reports and dashboards. It integrates seamlessly with various Microsoft products and allows for real time data tracking, making it popular in corporate settings. 
+3.	Critical Thinking 
+4.	Data Wrangling and cleaning: Before any data analysis can occur, data must be cleaned and transformed into a usable format. 
+5.	Communication skills. 
+
+
+
+
+
+   
 
 
 
