@@ -60,13 +60,13 @@ Examples of Analytics System
 
 ## DATA STORAGE 
 
-There are different ways to store our data but typically two ways 
-What does it mean to save data on premises: It simply means we have our data within the four walls of our company / organization. A server in an organization means a centralized system. 
-Cloud means your system/data is somewhere in the cloud, that is DATA CENTER. A cloud is being paid for before it’s can be assessed. 
+There are different ways to store our data but typically two ways:
 
+- PREMISES: What does it mean to save data on premises: It simply means we have our data within the four walls of our company / organization. A server in an organization means a centralized system.
+- CLOUD: Cloud means your system/data is somewhere in the cloud, that is DATA CENTER. A cloud is being paid for before it’s can be assessed. 
 
+[Premises and cloud](https://github.com/user-attachments/assets/09aeb9ec-d93b-4bcb-a12c-e697e45d1015)
 
-#TO BE CONTINUE 
 ```SQL
 select * From Table1
 Where condition = TRUE
